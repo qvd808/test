@@ -6,3 +6,5 @@
   <p align="center">
     <img src="https://ascii-galaxy.vercel.app/api?width=800&height=150&text=Techstack&font=Standard&fontSize=20&textColor=FFFFFF" alt="Galaxy image"/>
   </p>
+
+![Typing SVG](https://markdown-typing-svg.netlify.app/api/svg?lines=Hello+world;Shipping+useful+software&color=36BCF7&size=22&width=500)
